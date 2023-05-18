@@ -24,9 +24,9 @@ For each rectangle, the algorithm determines whether to draw smaller squares or 
 
 Below is a gif showcasing a few outputs of the PICO-8 generative algorithm, providing a glimpse into the range of abstract patterns and textures that the algorithm can generate. Each output is unique and showcases the unpredictable yet intriguing nature of generative art.
 
-<div style="text-align:center;">
-    <img src="images/ggflego.gif" style="height:60%;width:60%">
-</div>
+<p align="center">
+  <img width="600" height="600" src="images/ggflego.gif">
+</p>
 
 ## Requirements
 - PICO-8 software from Lexaloffle Games (https://www.lexaloffle.com/pico-8.php)
